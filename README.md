@@ -48,9 +48,9 @@
 
 **Table**
 | NAME | BRANCH | COLLEGE |
-| ---- | ---- | ---- |
-| abc | cse | VRSEC |
-| xyz | EIE | VRSEC |
+| ---- | ----   | --------|
+| abc  | cse    | VRSEC   |
+| xyz  | EIE    |   VRSEC |
 
 
 ***CODE***
