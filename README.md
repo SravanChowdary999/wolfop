@@ -47,10 +47,10 @@
 [Youtube](https://www.youtube.com/)
 
 **Table**
-|NAME|BRANCH|COLLEGE|
-|----|----|----|
-|abc|cse|VRSEC|
-|xyz|EIE|VRSEC|
+| NAME | BRANCH | COLLEGE |
+| ---- | ---- | ---- |
+| abc | cse | VRSEC |
+| xyz | EIE | VRSEC |
 
 
 ***CODE***
